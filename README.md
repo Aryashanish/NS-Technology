@@ -1,5 +1,5 @@
 # Deploy Website Digitlized Your Bussiness with us
-https://659cfef6c94edb7c0c2762c2--stirring-seahorse-6c3c6b.netlify.app/contact
+https://659cfef6c94edb7c0c2762c2--stirring-seahorse-6c3c6b.netlify.app
 
 # React + Vite
 
